@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1361200077 source:c:\users\lucila\desktop\lucilaterence\number3\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
