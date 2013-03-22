@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1363947421 source:c:\users\lucila\documents\github\mangrobanguy\lucilaterence\perlawanostras-master-master\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<math.h>
+	"Project.h"
+
+1363947421 c:\users\lucila\documents\github\mangrobanguy\lucilaterence\perlawanostras-master-master\project.h
+	<string>
+
+1363947420 source:c:\users\lucila\documents\github\mangrobanguy\lucilaterence\perlawanostras-master-master\project.cpp
+	"Project.h"
+	<iostream>
+	<math.h>
+	<cstring>
+	<vector>
+	<stdio.h>
+	<fstream>
+	<algorithm>
+	<string>
+	<sstream>
+
