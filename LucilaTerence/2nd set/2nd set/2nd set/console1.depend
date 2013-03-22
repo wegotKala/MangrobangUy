@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1361543653 source:/home/flepti/console1/main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"include/project.h"
+
+1361541550 /home/flepti/console1/include/project.h
+
+1361547088 source:/home/flepti/console1/src/project.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<cmath>
+	<numeric>
+	<string.h>
+	"../include/project.h"
+
+1363949056 source:c:\users\lucila\documents\github\mangrobanguy\lucilaterence\2nd set\2nd set\2nd set\src\project.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<cmath>
+	<numeric>
+	<string.h>
+	"../include/project.h"
+
+1363949056 c:\users\lucila\documents\github\mangrobanguy\lucilaterence\2nd set\2nd set\2nd set\include\project.h
+
+1363949051 source:c:\users\lucila\documents\github\mangrobanguy\lucilaterence\2nd set\2nd set\2nd set\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"include/project.h"
+
